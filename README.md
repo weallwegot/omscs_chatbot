@@ -5,7 +5,7 @@ The chat bot api is currently in use at [OMSCS Unofficial Reviews](omscentral.co
 
 ---------------------------
 
-The chat bot is available live [here](youngblksocrates.pythonanywhere.com)
+~~The chat bot is available live [here](https://youngblksocrates.pythonanywhere.com)~~
 
 the site above contains instructions for using the chat bot api, an about section, and some more sample questions.
 
